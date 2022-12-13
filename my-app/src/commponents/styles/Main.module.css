@@ -1,0 +1,12 @@
+.items__wrap{
+    display: flex;
+    flex-wrap: wrap;
+   margin-bottom: 100px;
+}
+.main__position{
+    display: flex;
+    flex-direction: column;
+    width: 1245px;
+    align-items: center;
+    margin: 0 auto;
+}

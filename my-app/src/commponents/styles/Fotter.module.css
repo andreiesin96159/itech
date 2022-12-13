@@ -1,0 +1,16 @@
+.fotter__color{
+    background-color: #000000;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+}
+.fotter__textBlock{
+    font-size: 12px;
+    width: 365px;
+    margin-right: 130px;
+}
+.fotter__logo{
+    font-size: 50px;
+    margin-left: 130px;
+}

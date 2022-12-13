@@ -1,0 +1,14 @@
+
+.items__wrap{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.cart__textCart{
+    font-size: 30px;
+
+    margin: 0 auto;
+    width: 100px;
+
+}
